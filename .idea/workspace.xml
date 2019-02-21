@@ -14,7 +14,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e110a3a5-6e36-4ab3-9958-1bcefe6354a4" name="Default" comment="" />
+    <list default="true" id="e110a3a5-6e36-4ab3-9958-1bcefe6354a4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/b/smartmirror_setting/ImgupActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/b/smartmirror_setting/ImgupActivity.java" afterDir="false" />
+    </list>
     <ignored path="D:\Smartmirror_Setting\.idea\shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,8 +42,13 @@
       <file leaf-file-name="ImgupActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/b/smartmirror_setting/ImgupActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="296" column="81" selection-start-line="296" selection-start-column="81" selection-end-line="296" selection-end-column="81" />
+            <state relative-caret-position="76">
+              <caret line="296" column="84" selection-start-line="296" selection-start-column="84" selection-end-line="296" selection-end-column="84" />
+              <folding>
+                <element signature="e#7402#7410#0" expanded="true" />
+                <element signature="e#9066#9489#0" expanded="true" />
+                <element signature="e#9488#9489#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -2554,7 +2561,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="Android Profiler" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
@@ -2592,6 +2598,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Smartmirro_Setting Application" />
+    <option name="LAST_COMMIT_MESSAGE" value="Smartmirro_Setting Application" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -2615,6 +2625,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5624">
           <caret line="296" column="81" selection-start-line="296" selection-start-column="81" selection-end-line="296" selection-end-column="81" />
+          <folding>
+            <element signature="e#7402#7410#0" expanded="true" />
+            <element signature="e#9066#9489#0" expanded="true" />
+            <element signature="e#9488#9489#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2749,8 +2764,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/b/smartmirror_setting/ImgupActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="296" column="81" selection-start-line="296" selection-start-column="81" selection-end-line="296" selection-end-column="81" />
+        <state relative-caret-position="76">
+          <caret line="296" column="84" selection-start-line="296" selection-start-column="84" selection-end-line="296" selection-end-column="84" />
+          <folding>
+            <element signature="e#7402#7410#0" expanded="true" />
+            <element signature="e#9066#9489#0" expanded="true" />
+            <element signature="e#9488#9489#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

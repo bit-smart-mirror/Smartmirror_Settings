@@ -294,7 +294,7 @@ public class ImgupActivity extends AppCompatActivity implements View.OnClickList
             fos.close();
 
 
-            RequestBody reqFile = RequestBody.create(MediaType.parse("image/*"), file);
+            RequestBody reqFile = RequestBody.create(MediaType.parse("image/*"), gitfile);
             MultipartBody.Part body = MultipartBody.Part.createFormData("upload", file.getName(), reqFile);
             RequestBody name = RequestBody.create(MediaType.parse("text/plain"), "upload");
 
